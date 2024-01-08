@@ -1,11 +1,8 @@
 .DS_Store
 private/
+/locale
 node_modules/
-.eslintrc
 *.log
 _index.html
-.idea
-
-*~
-*.swp
-*.swo
+dist/
+stats.json

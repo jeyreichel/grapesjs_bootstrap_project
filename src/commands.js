@@ -1,3 +1,5 @@
-export default (editor, config = {}) => {
-  const commands = editor.Commands;
+//import purify from './purifycss'
+
+export default (editor, opts = {}) => {
+    const cm = editor.Commands;
 }
